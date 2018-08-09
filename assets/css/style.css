@@ -1,0 +1,30 @@
+body { 
+    background: url("../images/london-tube.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+.card {
+    border:1px solid black;
+}
+
+
+.jumbotron {
+    height: 150px;
+    
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+h3, #train-table, form {
+    font-family: 'Playfair Display', serif;
+    /* letter-spacing: 3px; */
+}
+
